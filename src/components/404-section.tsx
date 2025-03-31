@@ -23,7 +23,7 @@ const NotFoundSection = () => {
             </div>
           </div>
           {/* button */}
-          <div className="flex">
+          <div className="flex p-[0.5px]">
             <Button
               size={"lg"}
               variant={"primary"}

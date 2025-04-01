@@ -18,7 +18,7 @@ const NotFoundSection = () => {
               <h1 className="font-semibold text-neutral-900 text-4xl md:text-6xl">We can’t find the page</h1>
             </header>
             {/* Text */}
-            <p className="text-neutral-600 md:text-xl text-lg">Sorry, the page you are looking for doesn't exist or has been moved.</p>
+            <p className="text-neutral-600 md:text-xl text-lg">Sorry, the page you are looking for doesn&apos;t  exist or has been moved.</p>
           </div>
           {/* button */}
           <div className="flex">

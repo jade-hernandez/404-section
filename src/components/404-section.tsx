@@ -11,7 +11,7 @@ const NotFoundSection = () => {
       {/* Wrapper */}
       <div className=" flex flex-col px-3 py-12 gap-12 md:px-4 md:py-16 md:gap-8">
         {/* Text & Button */}
-        <div className="flex flex-col gap-8 lg:p-24 md:gap-16 ">
+        <div className="flex flex-col gap-8  md:gap-16 ">
           {/* Text pair */}
           <div className="flex flex-col gap-6 ">
             {/* Header */}

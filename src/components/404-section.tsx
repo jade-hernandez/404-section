@@ -7,7 +7,7 @@ const NotFoundSection = () => {
     /* Background Image */
     <section
       style={{ backgroundImage: "linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 1)),url('/images/abstract-background.jpg')" }}
-      className="flex justify-start items-center h-[606px] md:h-[calc(100vh-32px)] bg-cover bg-center lg:px-24">
+      className="flex justify-start items-center h-[696px] md:h-[calc(100vh-32px)] bg-cover bg-center lg:px-24">
       {/* Wrapper */}
       <div className=" flex flex-col px-3 py-12 gap-12 md:px-4 md:py-16 md:gap-8">
         {/* Text & Button */}
